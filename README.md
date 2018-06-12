@@ -44,5 +44,3 @@ Extension pack that includes all the tools I use daily as a developer.
     "workbench.colorTheme": "One Monokai"
 }
 ```
-
-## **Enjoy!**

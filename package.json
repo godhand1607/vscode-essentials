@@ -2,10 +2,24 @@
     "name": "vscode-essentials",
     "displayName": "VSCode Essentials",
     "description": "Extension pack that includes all the tools I use daily as a developer.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/godhand1607/vscode-essentials.git"
+    },
+    "keywords": [
+        "angular",
+        "typescript",
+        "nativescript",
+        "react",
+        "golang",
+        "elixir",
+        "python",
+        "docker"
+    ],
     "version": "0.0.1",
     "publisher": "godhand1607",
     "engines": {
-        "vscode": "^1.24.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Extension Packs"
