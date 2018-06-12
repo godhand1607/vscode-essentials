@@ -8,13 +8,10 @@
     },
     "keywords": [
         "angular",
-        "typescript",
-        "nativescript",
         "react",
         "golang",
         "elixir",
-        "python",
-        "docker"
+        "python"
     ],
     "version": "0.0.1",
     "publisher": "godhand1607",
