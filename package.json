@@ -1,0 +1,33 @@
+{
+    "name": "vscode-essentials",
+    "displayName": "VSCode Essentials",
+    "description": "Extension pack that includes all the tools I use daily as a developer.",
+    "version": "0.0.1",
+    "publisher": "godhand1607",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "Angular.ng-template",
+        "EditorConfig.EditorConfig",
+        "PeterJausovec.vscode-docker",
+        "Telerik.nativescript",
+        "akamud.vscode-theme-onelight",
+        "azemoh.one-monokai",
+        "azemoh.theme-onedark",
+        "christian-kohler.path-intellisense",
+        "cssho.vscode-svgviewer",
+        "dbaeumer.vscode-eslint",
+        "eg2.tslint",
+        "eg2.vscode-npm-script",
+        "johnpapa.Angular2",
+        "mjmcloug.vscode-elixir",
+        "ms-python.python",
+        "ms-vscode.Go",
+        "natewallace.angular2-inline",
+        "shanoor.vscode-nginx"
+    ]
+}
