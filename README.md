@@ -1,5 +1,5 @@
 # VSCode Essentials
-Extension pack that includes all the tools I use daily as a developer.
+Extension pack that includes all the tools I use daily as a Software Engineer.
 
 ## Extensions Included
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
